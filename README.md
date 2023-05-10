@@ -1,4 +1,4 @@
-<h2 align="center">Привет, меня зовит Даниил</h2>
+<h2 align="center">Привет, меня зовут Даниил</h2>
 <h3 align="center">C# .NET developer </h3>
 <hr/>
 <h4 align="center">Мои проекты:</h4>
