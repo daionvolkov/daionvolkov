@@ -1,7 +1,20 @@
 <h2 align="center">Привет, меня зовит Даниил</h2>
 <h3 align="center">C# .NET developer </h3>
 <hr/>
-<h4 align="left">Контакты:</h4>
+<h4 align="center">Мои проекты:</h4>
+<ul>
+  <li><a href="https://github.com/daionvolkov/StackTak">StackTak</a> Приложение для хранения, поиска, учета сетевого оборудования</li>
+  <li><a href="https://github.com/daionvolkov/sokrati_git">Sokrati</a> Приложение для приведения ссылок в лаконичный формат </li>
+</ul>
+  <hr/>
+  <h4 align="center">Контакты:</h4>
+<p>
+  daionvolkov@gmail.com
+  </p>
+
+
+<hr/>
+<h4 align="left">Социальные сети:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%d0%b4%d0%b0%d0%bd%d0%b8%d0%b8%d0%bb-%d0%b2%d0%be%d0%bb%d0%ba%d0%be%d0%b2-0705b2127/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b4%d0%b0%d0%bd%d0%b8%d0%b8%d0%bb-%d0%b2%d0%be%d0%bb%d0%ba%d0%be%d0%b2-0705b2127/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/daniel.volkov.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/daniel.volkov.75" height="30" width="40" /></a>
