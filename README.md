@@ -1,5 +1,5 @@
 <h2 align="center">Привет, меня зовит Даниил</h2>
-<h3 align="center">C# developer</h3>
+<h3 align="center">C# .NET developer </h3>
 <hr/>
 <h4 align="left">Контакты:</h4>
 <p align="left">
