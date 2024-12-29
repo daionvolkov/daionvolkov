@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I`m Daniil</h2>
-### 👨‍💻 C# Developer Portfolio 
+<h3> 👨‍💻 C# Developer Portfolio</h3> 
 <hr/>
 <h4 align="center">My projects:</h4>
 <ul>
