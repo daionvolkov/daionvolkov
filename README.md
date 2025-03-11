@@ -46,8 +46,8 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
   ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
   ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)  
   
   
