@@ -4,9 +4,9 @@
 <h4 align="center">My projects:</h4>
 <ul>
   <li><a href="https://github.com/daionvolkov/StackTak">StackTak</a> Application for storage, retrieval, accounting of network equipment</li>
-  <li><a href="https://github.com/daionvolkov/sokrati_git">Sokrati</a> Application for making references into a concise formт </li>
+  <li><a href="https://github.com/daionvolkov/sokrati_git">Sokrati</a> Application for making references into a concise form</li>
   <li><a href="https://github.com/daionvolkov/NetAddressManager.git">Net Address Manager</a> Application for storing IP addresses of network devices, linked to the mailing address and equipment model</li>
-  <li><a href="https://github.com/daionvolkov/TrackerLoadGen.git">Tracker Load Generation</a> Lightweight .NET console application designed to generate realistic client-side tracking traffic for testing and validating</li>
+  <li><a href="https://github.com/daionvolkov/TrackerLoadGen.git">Tracker Load Generation</a> Lightweight .NET console application designed to generate realistic client-side tracking traffic for testing</li>
 </ul>
   <hr/>
   <h4 align="center">Contacts:</h4>
